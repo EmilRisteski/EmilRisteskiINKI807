@@ -1,4 +1,6 @@
 //Emil Risteski INKI807
+//Zadaca 45 - Kodiranje ili dekodiranje na string so dolzina najmnogu od 400 karakteri, taka sto se zgolemuva ili namaluva vrednosta na
+//ASCII kod so dodavanje ili odzemanje na brojot na cifri od shifrata koja e vnesena.
 #include <iostream>
 #include <string>
 #include <cctype>
